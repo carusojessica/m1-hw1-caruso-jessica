@@ -1,4 +1,8 @@
 .DS_Store
+<<<<<<< HEAD
+=======
+
+>>>>>>> 0215a385393f647cf154e0513b5eb2fda9d25e7f
 # Logs
 logs
 *.log
@@ -103,5 +107,8 @@ dist
 
 # TernJS port file
 .tern-port
+<<<<<<< HEAD
 
 Git push
+=======
+>>>>>>> 0215a385393f647cf154e0513b5eb2fda9d25e7f
